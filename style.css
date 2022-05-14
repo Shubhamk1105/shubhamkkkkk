@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    width: 350px;
+    height: 400px;
+    background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 600px;
+
+}
+.menu h3{
+    color: #ff7200;
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 2px;
+    font-size: 25px;
+    background-color: white;
+}
+.menu input{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #ff7200;
+    letter-spacing: 1px;
+    background: transparent;
+}
+h4{
+    color: white;
+    margin-top: 15px;
+}
+h5{
+    color: white;
+    display: flex;
+}
